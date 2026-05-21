@@ -3,11 +3,10 @@
 A full-stack Employee Leave Management System developed using Flask and MySQL.
 
 ## Features
-- Employee Login & Authentication
-- Apply for Leave
-- Leave Approval / Rejection
+- Employee Login
+- Leave Application
+- Leave Approval System
 - Admin Dashboard
-- Leave Status Tracking
 - MySQL Database Integration
 
 ## Technologies Used
@@ -21,7 +20,3 @@ A full-stack Employee Leave Management System developed using Flask and MySQL.
 ## Developed By
 K V Prudhvi Prakash
 
-## Future Improvements
-- Email Notifications
-- Analytics Dashboard
-- Mobile Responsive UI
